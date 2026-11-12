@@ -1,0 +1,18 @@
+{
+  "name": "pollution-is-the-solution-updated",
+  "version": "2.0.2",
+  "title": "Pollution is the Solution: Updated",
+  "author": "Mylon",
+  "contact": "https://forums.factorio.com/viewtopic.php?f=95&t=38757",
+  "homepage": "https://github.com/FactorioMods/pollution-is-the-solution-updated",
+  "description": "Pollution kills biter nests. After spawning 60 biters via absorbing pollution, they die. Biter farms should not be affected. Updated for Factorio 2.1; retains original prototype and setting names.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.24",
+    "?space-age",
+    "! Pollution_is_the_Solution"
+  ],
+  "migrates_from": [
+    "Pollution_is_the_Solution"
+  ]
+}

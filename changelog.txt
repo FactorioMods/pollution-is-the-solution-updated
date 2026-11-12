@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 2026-11-12
+  Compatibility:
+    - Supports Factorio 2.1 with the original gameplay, prototype names and settings.
+    - metadata Factorio2.1 minimum base2.1.24
+    - Reject absent or invalid spawner without changing persisted dose/state
+    - Native removed-mod storage and owned-object adoption retains existing saves.

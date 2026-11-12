@@ -1,0 +1,5 @@
+Original mod: Pollution_is_the_Solution
+Original author: Mylon
+Original release: https://mods.factorio.com/mod/Pollution_is_the_Solution
+Compatibility fork: https://github.com/FactorioMods/pollution-is-the-solution-updated
+Original source credits and licenses remain applicable.
